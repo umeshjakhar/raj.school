@@ -50,7 +50,8 @@ input {
 }
 
 .join-meeting {
-    background: #EDF4FB;
+    /*background: #EDF4FB; */
+    background: #c4b52f;
     padding: 60px;
     text-align: center;
     border: 1px solid rgba(0,0,0,0.1);
