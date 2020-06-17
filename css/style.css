@@ -64,6 +64,7 @@ input {
 .join-meeting .button { 
 	margin-bottom:20px;
 	background: #c4b52f;
+	text-align: center;
 }
 
 .input-center{
